@@ -35,8 +35,9 @@
 
 
 
+
+
 [website]: https://nikhilknick.netlify.app
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/nikhilknick
 [youtube]: https://youtube.com/nikhilknick
 [instagram]: https://instagram.com/nikhilknick
