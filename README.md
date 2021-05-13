@@ -4,7 +4,7 @@
 
 - 🔭 I am working on crazybends app
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to work on some awesome projects
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play guitar and dribble football
 
