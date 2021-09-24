@@ -5,7 +5,8 @@
 - 🔭 I am working on crazybends app
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work on some awesome projects
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals Completed: Learn Nodejs and Docker, CI/CD, React Native
+- 🥅 2021 Goals Future: Learn Typescript and Graphql, AWS Cerified
 - ⚡ Fun fact: I love to play guitar and dribble football
 
 
